@@ -1,0 +1,19 @@
+{
+    "Current User": "sasak",
+    "IP Addresses": [
+        "192.168.0.193",
+        "127.0.0.1",
+        "172.30.0.1",
+        "172.23.224.1"
+    ],
+    "MAC Address": null,
+    "Network Mask": null,
+    "DNS Servers": [],
+    "Gateway": "192.168.0.1",
+    "IP Domain": "Sasaki.www.tendawifi.com",
+    "Last User to Login": null,
+    "Working Group / Domain": "Sasaki",
+    "Type": "Windows",
+    "Active DHCP": false,
+    "Biggest User": null
+}

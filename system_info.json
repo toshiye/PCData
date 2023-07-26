@@ -1,0 +1,15 @@
+{
+    "Last Modified Date": "2023-07-26",
+    "Department": "Your Department",
+    "Department with Hierarchy": "Your Department > Subdepartment > Sub-subdepartment",
+    "It's a notebook": true,
+    "It's a virtual machine": false,
+    "Operational system": "Windows",
+    "System Type": "AMD64",
+    "Operating system version": "10.0.22621",
+    "Amount of RAM (MB)": 10085,
+    "Processor": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+    "Processor speed": "1988.00 MHz",
+    "Number of processors": 12,
+    "Computer Description": "Your computer description"
+}

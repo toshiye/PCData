@@ -1,0 +1,233 @@
+[
+    {
+        "vendor_id": "ROOT_HUB30",
+        "product_id": "5&FA19EDD&0&0",
+        "manufacturer": "(Standard USB HUBs)",
+        "product": "USB Root Hub (USB 3.0)",
+        "serial_number": "5&FA19EDD&0&0"
+    },
+    {
+        "vendor_id": "VID_04F2&PID_B725",
+        "product_id": "0001",
+        "manufacturer": "(Standard USB Host Controller)",
+        "product": "USB Composite Device",
+        "serial_number": "0001"
+    },
+    {
+        "vendor_id": "VID_04F2&PID_B725&MI_00",
+        "product_id": "7&2F2184DE&0&0000",
+        "manufacturer": "Realtek",
+        "product": "Integrated Camera",
+        "serial_number": "7&2F2184DE&0&0000"
+    },
+    {
+        "vendor_id": "VID_04F2&PID_B725&MI_02",
+        "product_id": "7&2F2184DE&0&0002",
+        "manufacturer": "Dispositivo WinUsb",
+        "product": "Dispositivo WinUsb",
+        "serial_number": "7&2F2184DE&0&0002"
+    },
+    {
+        "vendor_id": "ROOT_HUB30",
+        "product_id": "5&13600380&0&0",
+        "manufacturer": "(Standard USB HUBs)",
+        "product": "USB Root Hub (USB 3.0)",
+        "serial_number": "5&13600380&0&0"
+    },
+    {
+        "vendor_id": "VID_0BDA&PID_C123",
+        "product_id": "00E04C000001",
+        "manufacturer": "Realtek Semiconductor Corp.",
+        "product": "Realtek Bluetooth Adapter",
+        "serial_number": "00E04C000001"
+    },
+    {
+        "vendor_id": "MS_RFCOMM",
+        "product_id": "7&2B318D69&0&0",
+        "manufacturer": "Microsoft",
+        "product": "Bluetooth Device (RFCOMM Protocol TDI)",
+        "serial_number": "7&2B318D69&0&0"
+    },
+    {
+        "vendor_id": "{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000",
+        "product_id": "8&2E3EE818&0&000000000000_00000002",
+        "manufacturer": "Microsoft",
+        "product": "Serial Padr\u00e3o por link Bluetooth",
+        "serial_number": "8&2E3EE818&0&000000000000_00000002"
+    },
+    {
+        "vendor_id": "{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&005D",
+        "product_id": "8&2E3EE818&0&2852E0097012_C00000000",
+        "manufacturer": "Microsoft",
+        "product": "Serial Padr\u00e3o por link Bluetooth",
+        "serial_number": "8&2E3EE818&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "MS_BTHBRB",
+        "product_id": "7&2B318D69&0&1",
+        "manufacturer": "Microsoft",
+        "product": "Enumerador Bluetooth da Microsoft",
+        "serial_number": "7&2B318D69&0&1"
+    },
+    {
+        "vendor_id": "{0000110B-0000-1000-8000-00805F9B34FB}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": "Microsoft",
+        "product": "Origem do A2dp do Microsoft Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000110C-0000-1000-8000-00805F9B34FB}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": "Microsoft",
+        "product": "Driver de Transporte Avrcp Bluetooth da Microsoft",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000110E-0000-1000-8000-00805F9B34FB}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": "Microsoft",
+        "product": "Driver de Transporte Avrcp Bluetooth da Microsoft",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000111E-0000-1000-8000-00805F9B34FB}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": "Microsoft",
+        "product": "Fun\u00e7\u00e3o de AudioGateway do Perfil de Viva-voz do Microsoft Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "BTHHFPAUDIO",
+        "product_id": "9&250ABCA9&1&97",
+        "manufacturer": "Microsoft",
+        "product": "Dispositivo de \u00c1udio de Viva-voz de Microsoft Bluetooth",
+        "serial_number": "9&250ABCA9&1&97"
+    },
+    {
+        "vendor_id": "{0000EB04-D102-11E1-9B23-00025B00A5A5}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": null,
+        "product": "Dispositivo Perif\u00e9rico Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000EB05-D102-11E1-9B23-00025B00A5A5}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": null,
+        "product": "Dispositivo Perif\u00e9rico Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000EB06-D102-11E1-9B23-00025B00A5A5}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": null,
+        "product": "Dispositivo Perif\u00e9rico Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "{0000EB07-D102-11E1-9B23-00025B00A5A5}_LOCALMFG&005D",
+        "product_id": "8&17A22322&0&2852E0097012_C00000000",
+        "manufacturer": null,
+        "product": "Dispositivo Perif\u00e9rico Bluetooth",
+        "serial_number": "8&17A22322&0&2852E0097012_C00000000"
+    },
+    {
+        "vendor_id": "DEV_2852E0097012",
+        "product_id": "8&17A22322&0&BLUETOOTHDEVICE_2852E0097012",
+        "manufacturer": "Microsoft",
+        "product": "Dispositivo Bluetooth",
+        "serial_number": "8&17A22322&0&BLUETOOTHDEVICE_2852E0097012"
+    },
+    {
+        "vendor_id": "MS_BTHPAN",
+        "product_id": "7&2B318D69&0&2",
+        "manufacturer": "Microsoft",
+        "product": "Dispositivo Bluetooth (Rede Pessoal)",
+        "serial_number": "7&2B318D69&0&2"
+    },
+    {
+        "vendor_id": "MS_BTHLE",
+        "product_id": "7&2B318D69&0&3",
+        "manufacturer": "Microsoft",
+        "product": "Enumerador LE Bluetooth da Microsoft",
+        "serial_number": "7&2B318D69&0&3"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070",
+        "product_id": "6&578DBB&0&1",
+        "manufacturer": "(Standard USB Host Controller)",
+        "product": "USB Composite Device",
+        "serial_number": "6&578DBB&0&1"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_00",
+        "product_id": "7&37AF751C&0&0000",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo de Entrada USB",
+        "serial_number": "7&37AF751C&0&0000"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_00",
+        "product_id": "8&243C01C4&0&0000",
+        "manufacturer": "(teclados padr\u00f5es)",
+        "product": "Dispositivo de teclado HID",
+        "serial_number": "8&243C01C4&0&0000"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01",
+        "product_id": "7&37AF751C&0&0001",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo de Entrada USB",
+        "serial_number": "7&37AF751C&0&0001"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01&COL01",
+        "product_id": "8&64C402&0&0000",
+        "manufacturer": "Microsoft",
+        "product": "Mouse compat\u00edvel com HID",
+        "serial_number": "8&64C402&0&0000"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01&COL02",
+        "product_id": "8&64C402&0&0001",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Controlador de sistema compat\u00edvel com HID",
+        "serial_number": "8&64C402&0&0001"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01&COL03",
+        "product_id": "8&64C402&0&0002",
+        "manufacturer": "Microsoft",
+        "product": "HID-compliant consumer control device",
+        "serial_number": "8&64C402&0&0002"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01&COL04",
+        "product_id": "8&64C402&0&0003",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo definido pelo fornecedor compat\u00edvel com HID",
+        "serial_number": "8&64C402&0&0003"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_01&COL05",
+        "product_id": "8&64C402&0&0004",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo definido pelo fornecedor compat\u00edvel com HID",
+        "serial_number": "8&64C402&0&0004"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_02",
+        "product_id": "7&37AF751C&0&0002",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo de Entrada USB",
+        "serial_number": "7&37AF751C&0&0002"
+    },
+    {
+        "vendor_id": "VID_04D9&PID_A070&MI_02",
+        "product_id": "8&237279C0&0&0000",
+        "manufacturer": "(Dispositivos padr\u00e3o do sistema)",
+        "product": "Dispositivo definido pelo fornecedor compat\u00edvel com HID",
+        "serial_number": "8&237279C0&0&0000"
+    }
+]
